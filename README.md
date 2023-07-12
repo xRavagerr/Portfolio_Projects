@@ -1,6 +1,11 @@
 # Data Analytics Portfolio - Mateusz Miotła
-## About
-
+## About me
+Ambitious and creative data analyst with technical skills and a good understanding of 
+business requirements. Technical skills acquired through self-education and relevant 
+courses allow me to effectively analyze large data sets, while the knowledge and competencies 
+soft skills gained through studies enable me to see the bigger picture, understand the needs of the 
+user and communicate effectively. In addition, I find myself well in teamwork and can 
+work effectively in a collaborative environment.
 
 
 ## My projects
