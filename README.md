@@ -42,7 +42,7 @@ The project is presented via PDF. The interactive version is available for downl
 ### Stocks - modern portfolio theory
 **Code:** [`Stocks - modern portfolio theory`](https://github.com/xRavagerr/Portfolio_Projects/blob/main/Stocks%20-%20modern%20portfolio%20theory.ipynb)
 
-**Description:** This is a python program that allows you to build an optimal stocks portfolio based on Markowitz's Modern Portfolio Theory. It is designed to ask you about number of stocks you would like to have in your portfolio and then ask about the stock tickers. It provides correlation and covariance matrix and covariance of the whole portfolio. The focal point of creating portfolio is plotting an efficient frontier, which allows user to choose portfolio with risk and return he preffers. At the end, the program helps to choose best portfolio based on best sharpe's ratio.
+**Description:** This is a python program that allows you to build an optimal stocks portfolio based on Markowitz's Modern Portfolio Theory. For the project I used Alpha Vantage free API to download data about stock prices. It is designed to ask you about number of stocks you would like to have in your portfolio and then ask about the stock tickers. It provides correlation and covariance matrix and covariance of the whole portfolio. The focal point of creating portfolio is plotting an efficient frontier, which allows user to choose portfolio with risk and return he preffers. At the end, the program helps to choose best portfolio based on best sharpe's ratio.
 
 
 ### CPI prediction in Poland
