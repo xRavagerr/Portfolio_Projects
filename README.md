@@ -37,6 +37,20 @@ The project is presented via PDF. The interactive version is available for downl
 
 **Description:** The dashboard is built on data downloaded from Yahoo Finance and the brokerage platform. The presented portfolio is composed of selected Big Data companies and does not constitute an investment recommendation. The goal of the project was to prepare the data and then build a dashboard to track the investment portfolio.
 
+### Python Projects
+
+### Stocks - modern portfolio theory
+**Code:** [`Stocks - modern portfolio theory`](https://github.com/xRavagerr/Portfolio_Projects/blob/main/Stocks%20-%20modern%20portfolio%20theory.ipynb)
+
+**Description:** This is a python program that allows you to build an optimal stocks portfolio based on Markowitz's Modern Portfolio Theory. It is designed to ask you about number of stocks you would like to have in your portfolio and then ask about the stock tickers. It provides correlation and covariance matrix and covariance of the whole portfolio. The focal point of creating portfolio is plotting an efficient frontier, which allows user to choose portfolio with risk and return he preffers. At the end, the program helps to choose best portfolio based on best sharpe's ratio.
+
+
+### CPI prediction in Poland
+**Code:** [`Python CPI Prediction in Poland.ipynb`](https://github.com/xRavagerr/Portfolio_Projects/blob/main/Python%20CPI%20Prediction%20in%20Poland.ipynb)
+
+**Description:** This is an ARIMA model, which is designed to predict the level of CPI inflation in Poland in the next month. The project uses the Pandas library to load a csv file downloaded from the Central Statistical Office (GUS) website. The algorithm that issues predictions is built on an ARIMA model downloaded from the statsmodels library.At the data preparation stage, they were limited to the most relevant columns, conversion of data types, discarding empty values, indexing on a date basis and sorting the data.
+
+
 ### SQL Projects
 
 ### Bikestore Data Exploration
@@ -49,13 +63,3 @@ The project is presented via PDF. The interactive version is available for downl
 **Code:** [`Covid-19 SQL Data Exploration.sql`](https://github.com/xRavagerr/Portfolio_Projects/blob/main/Covid-19%20SQL%20Data%20Exploration.sql)
 
 **Description:** The dataset consists of records on the number of Covid-19 cases, the number infected, deaths and the number vaccinated. The project aims to use MS SQL Server for exploratory data analysis.
-
-
-### Python Projects
-
-### CPI prediction in Poland
-**Code:** [`Python CPI Prediction in Poland.ipynb`](https://github.com/xRavagerr/Portfolio_Projects/blob/main/Python%20CPI%20Prediction%20in%20Poland.ipynb)
-
-**Description:** This is the ARIMA model, which is designed to predict the level of CPI inflation in Poland in the next month. The project uses the Pandas library to load a csv file downloaded from the Central Statistical Office (GUS) website. The algorithm that issues predictions is built on an ARIMA model downloaded from the statsmodels library.At the data preparation stage, they were limited to the most relevant columns, conversion of data types, discarding empty values, indexing on a date basis and sorting the data. In the future, I plan to expand the model so that it makes predictions for more months ahead.
-
-
